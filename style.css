@@ -3,13 +3,14 @@ text-align: border-left width 40px;
 text-align: border-right width 40px;
 }
 
+
 img{
 display: block;
 margin-left: auto;
 margin-right: auto;
 width: 90%;
-
 }
+
 
 .contenedor{
     position: relative;
@@ -17,6 +18,7 @@ width: 90%;
     text-align: justify;
 }
   
+
 .centrado{
     position: absolute;
     top: 50%;
@@ -26,32 +28,29 @@ width: 90%;
     color: whitesmoke;
     font-size: 250px;
     text-align: center;
- 
 }
+
 
 #textopagina {
     
     font-family: 'Montserrat';
     font-size: 55px;
-   
-  
-
 }
+
+
 .presentation{
     text-align: center;
     padding-top: 100px;
     padding-bottom: 30px;
-   
-    
 }
+
+
 #foto2{
    
     width: 30%;
     padding-top: 60px;
     padding-bottom: 70px;
-         
 } 
-
 
 
 #foto3{
@@ -60,6 +59,8 @@ width: 90%;
     padding-bottom: 70px;
     padding-right: 200px;
 }
+
+
 #ultimoparrafo{
     font-family: 'Montserrat';
     font-size: 38px;
@@ -69,9 +70,9 @@ width: 90%;
     list-style-type:none;
     list-style: lower-latin;
     size: 1772px;
-        
 }
  
+
 .tabulador {
 margin-left: 75px;
 }
