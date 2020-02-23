@@ -1,80 +1,38 @@
-
-.imagenprincipal{
-    position: relative;
-    display: inline-block;
-    text-align: center;
-
-}
-
-    img{
-       
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        width: 90%;
-     
-    }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/*
-.contenedor{
-    position: relative;
-    display: inline-block;
-    text-align: center;
+body {
+text-align: border-left width 40px;
+text-align: border-right width 40px;
 }
 
 img{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 90%;
-   
-    
-   
-    }
- 
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 90%;
+
+}
+
+.contenedor{
+    position: relative;
+    display: inline-block;
+    text-align: justify;
+}
+  
 .centrado{
     position: absolute;
     top: 50%;
     left: 50%;
-font-family: apple-system;
+    font-family: 'Montserrat';
     transform: translate(-50%, -50%);
     color: whitesmoke;
-    font-size: 200px; 
+    font-size: 250px;
     text-align: center;
-    
+ 
 }
 
 #textopagina {
     
     font-family: 'Montserrat';
-    font-size: 62px;
+    font-size: 55px;
    
   
 
@@ -94,14 +52,6 @@ font-family: apple-system;
          
 } 
 
-#stylehr {
-    border-top: 1px solid #8c8b8b;
-    font-weight: 40%;
-    margin-left: 140px;
-    margin-right: 140px;
-}
-
-
 
 
 #foto3{
@@ -112,17 +62,16 @@ font-family: apple-system;
 }
 #ultimoparrafo{
     font-family: 'Montserrat';
-    font-size: 30px;
+    font-size: 38px;
     margin-right: 100px;
     padding-right: 100px;
-    padding-left: 200px;
+    padding-left: 400px;
     list-style-type:none;
     list-style: lower-latin;
-    
+    size: 1772px;
+        
 }
-
-
-
-hr{
-    padding-top: 30px;
-}*/
+ 
+.tabulador {
+margin-left: 75px;
+}
