@@ -1,4 +1,48 @@
 
+.imagenprincipal{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+
+}
+
+    img{
+       
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 90%;
+     
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
 .contenedor{
     position: relative;
     display: inline-block;
@@ -31,7 +75,7 @@ font-family: apple-system;
     
     font-family: 'Montserrat';
     font-size: 62px;
-    color: #24292e;
+   
   
 
 }
@@ -47,10 +91,15 @@ font-family: apple-system;
     width: 30%;
     padding-top: 60px;
     padding-bottom: 70px;
-    
-  
-    
+         
 } 
+
+#stylehr {
+    border-top: 1px solid #8c8b8b;
+    font-weight: 40%;
+    margin-left: 140px;
+    margin-right: 140px;
+}
 
 
 
@@ -74,6 +123,6 @@ font-family: apple-system;
 
 
 
-/*hr{
+hr{
     padding-top: 30px;
 }*/
