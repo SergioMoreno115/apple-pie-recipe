@@ -1,78 +1,84 @@
-body {
-text-align: border-left width 40px;
-text-align: border-right width 40px;
-}
-
-
-img{
-display: block;
-margin-left: auto;
-margin-right: auto;
-width: 90%;
-}
-
 
 .contenedor{
+
+    display: block;
+    text-align: center;
     position: relative;
-    display: inline-block;
-    text-align: justify;
+  
 }
   
 
+#imagen1{
+
+    width: 1400px;
+    height: 80%;
+  
+}
+
+
 .centrado{
+  
     position: absolute;
     top: 50%;
     left: 50%;
     font-family: 'Montserrat';
     transform: translate(-50%, -50%);
     color: whitesmoke;
-    font-size: 250px;
+    font-size: 130pt;
     text-align: center;
-}
 
-
-#textopagina {
-    
-    font-family: 'Montserrat';
-    font-size: 55px;
 }
 
 
 .presentation{
+    display: block;
     text-align: center;
     padding-top: 100px;
     padding-bottom: 30px;
+    font-family: 'Montserrat';
+    font-size: 23pt;
+
 }
 
 
 #foto2{
-   
-    width: 30%;
-    padding-top: 60px;
-    padding-bottom: 70px;
+    
+    width: 650px;
+    padding-top: 1%;
+    
 } 
 
 
+h2{
+
+font-size: 23pt;
+
+}
+
+
 #foto3{
-    width: 32%;
-    padding-top: 60px;
-    padding-bottom: 70px;
-    padding-right: 200px;
+  
+    width: 500px;
+    margin-left: 20%;
+    padding-top: 1%;
+    padding-bottom: 30px;
+     
 }
 
 
 #ultimoparrafo{
+
     font-family: 'Montserrat';
-    font-size: 38px;
-    margin-right: 100px;
-    padding-right: 100px;
-    padding-left: 400px;
-    list-style-type:none;
-    list-style: lower-latin;
-    size: 1772px;
+    font-size: 17pt;
+    margin-left: 19.5%;
+    
+        
 }
  
 
 .tabulador {
+
 margin-left: 75px;
+
 }
+
